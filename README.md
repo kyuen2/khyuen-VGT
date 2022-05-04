@@ -1,5 +1,5 @@
 # khyuen-VGT
-The VGT/VDA/ch5 codes
+The VGT code
 
 ## Introduction
 
