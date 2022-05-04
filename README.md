@@ -59,15 +59,9 @@ There are extra modules established due to the development of the VGT
 2. `LazVTK.jl`: Supports VTK IO
 3. `LazTsallis.jl`: Tsallis parameters.
 4. `LazVCA.jl` : See Yuen et.al 2019
-5. `ath2h5.jl` : [Ka Wai Ho](https://github.com/doraemonho)'s athena -> HDF5 module. 
-
-
-### Further plans
-We have a number of old modules that are not ready to be used in Julia v1.01/1, including
-1. The curvature and torsion modules (In `LazGAC.jl` now)
-2. The Advanced Block Adveraging and New Moving Window Modules (In `LazAMW.jl` now)
-3. The 3D cube rotation and geometric transformation modules ( https://github.com/doraemonho/LazRotationDev)
-4. Filament-related modules (In `LazGAC.jl` now)
+5. `ath2h5.jl` : [Ka Wai Ho](https://github.com/doraemonho)'s athena -> HDF5 module.
+6. The 3D cube rotation and geometric transformation modules ( https://github.com/doraemonho/LazRotationDev)
+7. Filament-related modules (In `LazGAC.jl` now)
 
 ## License to use the code
 
