@@ -1,5 +1,5 @@
 # khyuen-VGT
-The VGT code
+The VGT code, as of the private repository `LazTech-VGT`, merged with `LazTech-VGT-new`. 
 
 ## Introduction
 
@@ -23,7 +23,6 @@ The *minimal* version of VGT are listed as follows:
 ### Quick Start Instruction, Dependency Installer and User Config
 1. `startup.sh` or `startup.bat`: Quick start command for windows and linux user.
 2. `LazInstaller.jl`: Install Julia packages for the project. 
-3. `startup.jl`: Startup file for the julia (load current path for module import, etc.)
 
 ### Header definitions 
 1. `LazIO.jl` : deal with simple I/O 
