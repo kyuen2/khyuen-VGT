@@ -7,15 +7,14 @@ Last Updated: May 4 2022 by Ka Ho Yuen (kyuen2.astro@gmail.com)
 
 This is the main code for the Velocity Gradient Technique (Yuen & Lazarian 2017a,b, Lazarian et.al 2017, Lazarian & Yuen 2018ab, Yuen et.al 2018a, Lazarian et.a 2018a, Hu et.al 2018a)
 
-The code embedded here records the **development of the codes over the past few years, which might not be up-to-date**. 
-For each file they have their own license file. You are free to edit them.
+The code embedded here records the **development of the codes over the past few years (since 2017), which some of the codes might not be up-to-date**. 
+For each file they have their own license file. You are free to edit them as long as proper acknowledgment is given.
 
 ## Prerequisite
 
 Either
-[Julia 1.6.2](https://julialang.org/downloads/) (or Julia > 1.0) is the only application you need to install now.
-or 
-Use a [Docker](https://hub.docker.com/repository/docker/kyuen2/gsa-hi)
+1. [Julia 1.6.2](https://julialang.org/downloads/) (or Julia > 1.0) is the only application you need to install now, or 
+2. Use a [Docker](https://hub.docker.com/repository/docker/kyuen2/gsa-hi)
 
 ## The structure of the module
 
