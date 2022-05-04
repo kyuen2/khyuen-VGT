@@ -1,5 +1,5 @@
 # khyuen-VGT
-The VGT code, as of the private repository `LazTech-VGT`, merged with `LazTech-VGT-new`. 
+The **Velocity Gradient Technique (VGT)** code, as of the private repository `LazTech-VGT`, merged with `LazTech-VGT-new`. 
 
 ## Introduction
 
@@ -12,7 +12,10 @@ For each file they have their own license file. You are free to edit them.
 
 ## Prerequisite
 
+Either
 [Julia 1.6.2](https://julialang.org/downloads/) (or Julia > 1.0) is the only application you need to install now.
+or 
+Use a [Docker](https://hub.docker.com/repository/docker/kyuen2/gsa-hi)
 
 ## The structure of the module
 
@@ -45,6 +48,10 @@ There are extra modules established due to the development of the VGT
 ### Planck-related modules
 1. `GalToEqr.jl`: Provide essential Planck support
 2. `LazAMW.jl`: The moving window algorithm and its variant
+
+### LazTech-VGT-new
+1. LazNewCh5.jl : See [here](https://github.com/kyuen2/MHD_Mode)
+2. LazVDA.jl : See [here](https://github.com/kyuen2/LazDDA) 
 
 ### Other modules
 1. `LazGAC.jl`: The gradient amplitude and curvature related modules
