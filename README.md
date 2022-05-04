@@ -36,6 +36,7 @@ The *minimal* version of VGT are listed as follows:
 2. `LazCore.jl`: The base module corresponding to Yuen & Lazarian 2017a,b, and Lazarian & Yuen 2018a.
 3. `LazPCA.jl`: The new technique introduced from Lazarian et.al 2018a and Hu et.al 2018a, written with Yue Hu.
 4. `LazCFA.jl`: The core module for computing the anisotropy, used in Yuen et. al 2018a. Written by Ka Wai Ho and KH.
+5. `LazMode.jl` : The mode code. But there are some issues now. Check `LazNewCh5.jl`.
 
 There are extra modules established due to the development of the VGT
 
