@@ -50,12 +50,16 @@ There are extra modules established due to the development of the VGT
 2. `LazAMW.jl`: The moving window algorithm and its variant
 
 ### LazTech-VGT-new
-1. LazNewCh5.jl : See [here](https://github.com/kyuen2/MHD_Mode)
-2. LazVDA.jl : See [here](https://github.com/kyuen2/LazDDA) 
+1. `LazNewCh5.jl`, `LazMuiltiPole.jl` : See [here](https://github.com/kyuen2/MHD_Mode)
+2. `LazVDA.jl` : See [here](https://github.com/kyuen2/LazDDA) 
 
 ### Other modules
 1. `LazGAC.jl`: The gradient amplitude and curvature related modules
 2. `LazVTK.jl`: Supports VTK IO
+3. `LazTsallis.jl`: Tsallis parameters.
+4. `LazVCA.jl` : See Yuen et.al 2019
+5. `ath2h5.jl` : [Ka Wai Ho](https://github.com/doraemonho)'s athena -> HDF5 module. 
+
 
 ### Further plans
 We have a number of old modules that are not ready to be used in Julia v1.01/1, including
@@ -68,7 +72,7 @@ We have a number of old modules that are not ready to be used in Julia v1.01/1, 
 
 A statement should be included in the **Acknowledgment** section of any peer-reviewed journal papers: 
 
-> This research is performed using the code `LazTech VGT` developed by Ka Ho Yuen, Ka Wai Ho, Yue Hu, Junda Chen and Alex Lazarian under the support of NSF AST 1212096
+> This research is performed using the code `khyuen-VGT` developed by Ka Ho Yuen et.al under the support of NSF AST 1212096
 
 Proper citations should be made according to the papers we quoted above. 
 
