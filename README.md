@@ -7,7 +7,7 @@ Last Updated: May 4 2022 by Ka Ho Yuen (kyuen2.astro@gmail.com)
 
 This is the main code for the Velocity Gradient Technique (Yuen & Lazarian 2017a,b, Lazarian et.al 2017, Lazarian & Yuen 2018ab, Yuen et.al 2018a, Lazarian et.a 2018a, Hu et.al 2018a)
 
-The code embedded here records the **development of the codes over the past few years**. 
+The code embedded here records the **development of the codes over the past few years, which might not be up-to-date**. 
 For each file they have their own license file. You are free to edit them.
 
 ## Prerequisite
